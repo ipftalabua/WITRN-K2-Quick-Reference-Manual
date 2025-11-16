@@ -114,7 +114,7 @@ Both the left and right type-C connectors on the K2 can be used for supplying po
 **Remark:**
 > The K2 official website provides another way to power on: Press **`OK`** to power on. However, this method has limitations and is generally not recommended.
 >
-> When using the K2 as a charging monitor it does not need to be powered-on; it is enough to simply connect the devices. Powering it on may result in extremely slow charging and protocol errors may emerge; see [3.5 Why is the charging power so low after connecting the K2?](#35-Why is the charging power so low after connecting the K2?).
+> When using the K2 as a charging monitor it does not need to be powered-on; it is enough to simply connect the devices. Powering it on may result in extremely slow charging and protocol errors may emerge; see [3.5 Why is the charging power very low after connecting the K2?](#why-is-the-charging-power-very-low-after-connecting-the-k2).
 
 ### 2.2 Why doesn't the screen light up when plugged in?
 
@@ -518,7 +518,7 @@ Indicates the current that the cable in use can currently handle. It is not the 
 
 [^6]: Device Firmware Upgrade mode, also called firmware flashing mode. See [7.1 How to enter DFU mode](#how-to-enter-dfu-mode)
 
-[^7]: See [6.1 What is/What Does E-Marker Do](#61-What is E-Marker and What Does it Do)
+[^7]: See [6.1 Introduction to E-Markers](#introduction-to-e-markers)
 
 [^8]: See [4.10 What is "PD speedup"](#what-is-pd-speedup)
 
